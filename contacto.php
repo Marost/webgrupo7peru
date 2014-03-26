@@ -145,24 +145,26 @@
         <div id="texto">
         <table width="740" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td align="left" valign="middle"><p class="texto14-plomo"> Si está buscando profesionales con amplia experiencia en la comunicación integral, </p>
-              <p class="texto14-plomo">el desarrollo editorial y el periodismo en general, no dude en ubicarnos. Estamos para servirlo:<br />
-                jtipe@grupo7peru.com </p>
+            <td align="left" valign="middle">
+              <p class="texto14-plomo">Si está buscando profesionales con amplia experiencia en la comunicación integral,</p>
+              <p class="texto14-plomo">el desarrollo editorial y el periodismo en general, no dude en ubicarnos. Estamos para servirlo: grupo7@grupo7peru.com</p>
               <p>&nbsp;</p>
-              <p class="texto14-plomo"> T&amp;S Comunicadores SAC<br />
+              <p class="texto14-plomo">G7 Consultores SAC<br />
               </p>              
-              <p class="texto14-plomo">Jr. Andalucía 106 - Urb. Mayorazgo</p>
-              <p class="texto14-plomo"> Teléfono: 955 667787 RPM: *0077778</p>
-<p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>
-            <p>&nbsp;</p>            <p class="texto14-plomo">&nbsp;</p></td>
+              <p class="texto14-plomo">Oficina comercial: Jr. Andalucía 106 - Urb. Mayorazgo</p>
+              <p class="texto14-plomo">Dirección fiscal: Jr. Las Valerianas N° 828, Urb. Las Flores - Lima 36</p>
+              <p class="texto14-plomo">Teléfono: 999885469</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+            </td>
           </tr>
         </table>
       </div><!--FIN TEXTO-->
